@@ -28,6 +28,12 @@ body {
     opacity: .75;
 }
 
+.header h1, p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .panel {
     background: #0f1a2f;
     border: 1px solid rgba(255, 255, 255, 0.12);
@@ -92,4 +98,5 @@ body {
     font-size: 15px;
     opacity: 0.75;
 }
+
 
