@@ -31,7 +31,6 @@ body {
 .header h1, p {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .panel {
@@ -98,5 +97,6 @@ body {
     font-size: 15px;
     opacity: 0.75;
 }
+
 
 
